@@ -27,6 +27,7 @@ Let's `glimpse()` at it.
 #| label: glimpse-penguins
 
 # add code here
+glimpse(penguins)
 ```
 
 -   **Demo:** First, replace the blank below with the number of rows in the `penguins` data frame based on the output of the chunk below. Then, replace it with "inline code" and render again.
