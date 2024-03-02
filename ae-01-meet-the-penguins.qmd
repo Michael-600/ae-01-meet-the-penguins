@@ -26,7 +26,6 @@ Let's `glimpse()` at it.
 ```{r}
 #| label: glimpse-penguins
 
-# add code here
 glimpse(penguins)
 ```
 
@@ -38,4 +37,4 @@ glimpse(penguins)
 nrow(penguins)
 ```
 
-There are 344 penguins in the `penguins` data frame.
+There are `r nrow(penguins)` penguins in the `penguins` data frame.
